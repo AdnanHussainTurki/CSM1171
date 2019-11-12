@@ -19,7 +19,7 @@ int main() {
     cout << "\nEnter the operation you wish to do on given integer : ";
     cin >> op[0] ;
 
-
+    
 
     int result;
     switch (op[0]) {
