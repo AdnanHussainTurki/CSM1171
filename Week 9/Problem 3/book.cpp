@@ -26,7 +26,7 @@ struct Book
 main() {
     Book b;
     b.book_id  = 1;
-    b.title = "The MOTOROLA";
+    b.title = "The Imitation Game";
     b.author = "Adnan Hussain";
     b.price = 20;
     b.printSummary(&b);
